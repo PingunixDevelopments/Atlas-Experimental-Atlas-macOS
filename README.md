@@ -13,7 +13,7 @@ This repository contains the macOS and experimental builds of the Atlas CLI. It 
 
 - This is a place to try out new ideas, test upcoming features, and provide macOS users with earlier access to updates. Things here may be unstable or incomplete, but they show what’s coming next for Atlas.
 
-**Who should use this**
+**Who should use this?**
 
 - macOS users who want the newest features right away
 - Anyone curious about what’s coming in the next Atlas version
