@@ -19,6 +19,7 @@ This repository contains the macOS and experimental builds of the Atlas CLI. It 
 - Anyone curious about what’s coming in the next Atlas version
 
 **A quick note**
+
 Because these builds are ahead of the main release, expect some rough edges and occasional breaking changes.
 
 <img width="500" height="500" alt="Untitled-1-removebg-preview" src="https://github.com/user-attachments/assets/be0eb333-bdee-4923-9fe3-3e7bc0a32e4e" />
