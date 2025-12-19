@@ -1,4 +1,4 @@
-# Atlas-Experimental-Atlas-macOS
+# Atlas-Experimental-Atlas-macOS/Linux
 
 This repository contains the macOS and experimental builds of the Atlas CLI. It isn’t the main Atlas repo—this one is specifically for macOS users and for testing features that aren’t ready for the stable Windows/Linux release.
 
