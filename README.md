@@ -4,7 +4,7 @@ This repository contains the macOS and experimental builds of the Atlas CLI. It 
 
 **What this repo includes**
 
-- macOS builds for both Apple Silicon and Intel
+- Atlas CLI for macOS and Linux users
 - Experimental features and early previews
 - Releases that are always one version ahead of the main project
 - Test builds that may change often
@@ -15,15 +15,22 @@ This repository contains the macOS and experimental builds of the Atlas CLI. It 
 
 **Who should use this?**
 
-- macOS users who want the newest features right away
+- macOS or Linux users who want the newest features right away
 - Anyone curious about what’s coming in the next Atlas version
+
+**Minimum Requirements**
+
+- MacOS High Sierra (10.13) or newer
+- Any Linux Distro that supports Python 3.8 or newer)
+- Python 3.8
+
+**Using Windows?**
+
+This can work on Windows, But I recommend using the official Windows build coded in C#. 
+Download: https://github.com/PingunixDevelopments/Atlas
 
 **A quick note**
 
 Because these builds are ahead of the main release, expect some rough edges and occasional breaking changes.
-
-**Using Windows?**
-This can work on Windows, But I recommend using the official Windows build coded in C#. 
-Download: https://github.com/PingunixDevelopments/Atlas
 
 <img width="500" height="500" alt="Untitled-1-removebg-preview" src="https://github.com/user-attachments/assets/be0eb333-bdee-4923-9fe3-3e7bc0a32e4e" />
